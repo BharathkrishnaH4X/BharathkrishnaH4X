@@ -2,8 +2,9 @@
 
 You have Visited my Profile for Some of your needs, let you Check this Out......
 
-- 🔐 Cyber Security Researcher  
+#- 🔐 Cyber Security Researcher  
 - 📡 Network Pentester
+- 🌐 IOT Devices and projects
 - 💻 Coding & Ethical Hacking Projects  
 
 ## 🌐 Socials:
