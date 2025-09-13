@@ -1,5 +1,6 @@
-Hey there I Am Bharathkrishna 
-You have Visited my Profile for Some of your needs, let you Check this Out........
+🙋Hey there I Am Bharathkrishna S
+
+You have Visited my Profile for Some of your needs, let you Check this Out......
 
 - 🔐 Cyber Security Researcher  
 - 📡 Network Pentester
@@ -29,6 +30,6 @@ You have Visited my Profile for Some of your needs, let you Check this Out......
 ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91.svg?logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 
+## 📊 GitHub Stats:
 
-⭐️ From [Your GitHub Username](https://github.com/YourGitHubUsername)
-
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true)
