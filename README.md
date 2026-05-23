@@ -8,7 +8,7 @@ You have Visited my Profile for Some of your needs, let you Check this Out......
  - 💻 Coding & Ethical Hacking Projects  
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/paNqstYa)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/bharathkrishna.exe?igsh=MXNzbHE5ZTN1MW1wZw==) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/paNqstYa)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/bhaarth.leo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
