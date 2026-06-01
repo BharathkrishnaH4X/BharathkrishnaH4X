@@ -25,6 +25,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91.svg?logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
