@@ -7,7 +7,7 @@
  - 💻 Coding & Ethical Hacking Projects  
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/bhaarth.leo?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/bhaarth.leo/) 
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)
