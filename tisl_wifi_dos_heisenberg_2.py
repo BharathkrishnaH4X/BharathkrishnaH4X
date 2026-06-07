@@ -29,10 +29,11 @@ print(r"""
 |_|  |_| \___||_| /____/ \___| |_| |_| |____/  \___||_|   \__, |
                                                            __/ |
                                                           |___/ """)
-print("\n****************************************************************")
-print("\n* Copyright of BharathkrishnaH4X, 2026                         *")
-print("\n* https://github.com/BharathkrishnaH4X                         *")
-print("\n****************************************************************")
+print("\n****************************************************************************")
+print("\n* Copyright of BharathkrishnaH4X, 2026                                     *")
+print("\n* https://github.com/BharathkrishnaH4X                                     *")
+print("\n* The Author is not responsible for Misuse of Tool on unauthorized Networks ")
+print("\n****************************************************************************")
 
 # This Program should run in super user privileges because the process uses airmon-ng commands to deauth
 # For run the Program only in 'sudo' super user privilege 
@@ -178,8 +179,11 @@ try:
         print("Deauthenticating clients, press ctrl-c to stop")
 except KeyboardInterrupt:
     # When the user presses Ctrl+C, we need to stop the attack and exit the program gracefully by stopping the monitoring mode and thanking the user for using the program before exiting.
-    print("Stop monitoring mode")
+    print("Stopping.... monitoring mode")
+    time.sleep(1)
     # subprocess.run() is used to run the command in the terminal and wait for it to finish before moving on to the next line of code. We need to stop the monitoring mode to return the wireless interface to its normal state and avoid any potential issues with other wireless networks or devices that may be in range.
     subprocess.run(["airmon-ng", "stop", hacknic + "mon"])
+    print("Monitor Mode Stopped!")
+    time.sleep(1)
     print("Thank you! Exiting now")
     exit()
