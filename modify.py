@@ -32,7 +32,6 @@ print("\n***********************************************************************
 print("\n* Copyright of BharathkrishnaH4X, 2026                                 *")
 print("\n* https://github.com/BharathkrishnaH4X                                 *")
 print("\n* Author is not responsible for usage of tool on unauthorized Networks *")
-print("\n* This is a Wifi based attack so you need physical wifi in your device *")
 print("\n************************************************************************")
 
 if not 'SUDO_UID' in os.environ.keys():
