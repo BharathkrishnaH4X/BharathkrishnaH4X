@@ -114,7 +114,7 @@ while True:
         if active_wireless_networks[int(choice)]:
             break
     except:
-        print("Please try again.")
+        print("The Wireless Adapter not found. Please try again.")
 
 hackbssid = active_wireless_networks[int(choice)]["BSSID"]
 hackchannel = active_wireless_networks[int(choice)]["channel"].strip()
@@ -130,6 +130,5 @@ except KeyboardInterrupt:
     subprocess.run(["airmon-ng", "stop", hacknic + "mon"])
     print("Thank you! Exiting now")
     print("Exiting...")
-    time.sleep(1)
     print("Ended!")
     exit()
