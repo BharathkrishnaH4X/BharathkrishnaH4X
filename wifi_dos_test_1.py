@@ -126,8 +126,8 @@ try:
     while True:
         print("Deauthenticating clients from", hackbssid, "on channel", hackchannel)
 except KeyboardInterrupt:
-    print("Stop monitoring mode")
+    print("Stop monitoring mode...")
     subprocess.run(["airmon-ng", "stop", hacknic + "mon"])
+    time.sleep(1)
     print("Thank you! Exiting now")
     exit()
-    #Password : sdffdsewewerwewshjflddcvmcnfdg
