@@ -128,5 +128,8 @@ try:
 except KeyboardInterrupt:
     print("Stop monitoring mode")
     subprocess.run(["airmon-ng", "stop", hacknic + "mon"])
-    print("Thank you! Exiting now")
+    print("Thank you!")
+    time.sleep(1)
+    print("Exiting now.....")
+    time.sleep(1)
     exit()
