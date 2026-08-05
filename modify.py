@@ -79,9 +79,9 @@ def print_banner():
     ║              \033[1;33mHEISENBERG WiFi DOS Tool\033[1;36m                  ║
     ║                                                               ║
     ╠═══════════════════════════════════════════════════════════════╣
-    ║  \033[1;35m© Bharathkrishna, 2026\033[1;36m                                     ║
-    ║  \033[1;34mhttps://github.com/BharathkrishnaH4X\033[1;36m                    ║
-    ║  \033[1;32mSudharshan & Kaviprabhu - Best Friends Forever!\033[1;36m       ║
+    ║  \033[1;35m© Bharathkrishna, 2026\033[1;36m                   ║
+    ║  \033[1;34mhttps://github.com/BharathkrishnaH4X\033[1;36m     ║
+    ║                                                               ║
     ╚═══════════════════════════════════════════════════════════════╝
     \033[0m
     """
