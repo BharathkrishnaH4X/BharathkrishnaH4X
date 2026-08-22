@@ -1,4 +1,4 @@
-## 🙋Hey there I Am Bharathkrishna S
+## 🙋Hey there I Am Bharathkrishna
 
 
  - 🔐 Cyber Security Researcher  
