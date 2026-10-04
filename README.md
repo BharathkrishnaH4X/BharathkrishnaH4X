@@ -21,7 +21,7 @@ bharathkrishna
 $ cat /etc/profile
 Cyber Security Researcher
 Network Pentester
-IoT & Embedded Systems Builder
+IoT and Embedded Systems Builder
 Security Automation Enthusiast
 Ethical Hacking Practitioner
 ```
