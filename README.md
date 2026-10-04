@@ -1,18 +1,15 @@
 # 👾 BHARATHKRISHNA
 
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  ██████╗ ██╗  ██╗ █████╗ ██████╗  █████╗ ████████╗██╗  ██╗          │
-│  ██╔══██╗██║  ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║          │
-│  ██████╔╝███████║███████║██████╔╝███████║   ██║   ███████║          │
-│  ██╔══██╗██╔══██║██╔══██║██╔══██╗██╔══██║   ██║   ██╔══██║          │
-│  ██████╔╝██║  ██║██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║          │
-│  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝          │
-│                                                                     │
-│          CYBER SECURITY • NETWORKS • IoT • HARDWARE                │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                                  │
+| █████▄ ██  ██ ▄████▄ █████▄  ▄████▄ ██████ ██  ██ ██ ▄█▀ █████▄  ██ ▄█████ ██  ██ ███  ██ ▄████▄ |
+| ██▄▄██ ██████ ██▄▄██ ██▄▄██▄ ██▄▄██   ██   ██████ ████   ██▄▄██▄ ██ ▀▀▀▄▄▄ ██████ ██ ▀▄██ ██▄▄██ |
+| ██▄▄█▀ ██  ██ ██  ██ ██   ██ ██  ██   ██   ██  ██ ██ ▀█▄ ██   ██ ██ █████▀ ██  ██ ██   ██ ██  ██ |
+|                                            H 4 X                                                 │
+│                                                                                                  │
+│                              CYBER SECURITY • NETWORKS • IoT • HARDWARE                          │
+└──────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ### `> whoami`
@@ -168,38 +165,6 @@ I build experimental devices, automation systems, security tools, and IoT protot
 
 ## 🚀 Featured Projects
 
-### 🐉 HYDRA
-
-> **ESP32-based Cybersecurity & Hardware Research Toolkit**
-
-```text
-                  ┌──────────────┐
-                  │    HYDRA     │
-                  └──────┬───────┘
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-      Wi-Fi           Bluetooth           RF
-        │                │                │
-        └────────────────┼────────────────┘
-                         │
-              ┌──────────┴──────────┐
-              │                     │
-             RFID                 IR
-              │                     │
-              └──────────┬──────────┘
-                         ▼
-                    ESP32 CORE
-                         │
-                         ▼
-                    TFT + OLED
-```
-
-A modular hardware platform for experimenting with wireless protocols, embedded systems, and security research.
-
----
-
 ### ☠️ DEDSEC
 
 > **Portable Vulnerability Assessment Platform**
@@ -235,26 +200,6 @@ The goal: **Automate repetitive security assessment workflows while keeping the 
 
 ---
 
-### 🤖 JARVIS / Voice AI
-
-Experimenting with embedded voice-controlled systems and custom hardware assistants.
-
-```text
-VOICE
-  ↓
-SPEECH RECOGNITION
-  ↓
-COMMAND PROCESSING
-  ↓
-AI / LOGIC ENGINE
-  ↓
-ACTION
-  ↓
-HARDWARE
-```
-
----
-
 ## 🧪 Security Lab
 
 My approach to cybersecurity is simple:
@@ -282,13 +227,13 @@ I use controlled labs and intentionally vulnerable environments to understand se
 ## 🧠 Currently Exploring
 
 ```text
-[████████████████████░░] Network Security
-[██████████████████░░░░] Penetration Testing
-[████████████████░░░░░░] IoT Security
-[███████████████░░░░░░░] Embedded Systems
-[██████████████░░░░░░░░] Security Automation
-[████████████░░░░░░░░░░] Cloud Security
-[███████████░░░░░░░░░░░] AI + Cybersecurity
+[████████████████████  ] Network Security
+[██████████████████    ] Penetration Testing
+[████████████████      ] IoT Security
+[███████████████       ] Embedded Systems
+[██████████████        ] Security Automation
+[████████████          ] Cloud Security
+[███████████           ] AI + Cybersecurity
 ```
 
 ---
@@ -370,17 +315,6 @@ I'm working toward becoming a stronger **security researcher and offensive secur
 ---
 
 <p align="center">
-
-### `> SYSTEM STATUS: ONLINE`
-
-```text
-╔════════════════════════════════════════════╗
-║                                            ║
-║        KEEP LEARNING. KEEP BUILDING.       ║
-║        KEEP BREAKING. KEEP SECURING.       ║
-║                                            ║
-╚════════════════════════════════════════════╝
-```
 
 **Made with curiosity, caffeine & questionable amounts of debugging. ☕💻**
 
