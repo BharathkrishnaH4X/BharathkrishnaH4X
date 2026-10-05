@@ -283,22 +283,6 @@ I use controlled labs and intentionally vulnerable environments to understand se
 
 ---
 
-## 🎯 Mission
-
-```text
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│  UNDERSTAND SYSTEMS.                             │
-│  QUESTION ASSUMPTIONS.                           │
-│  BUILD EXPERIMENTS.                              │
-│  FIND WEAKNESSES.                                │
-│  CREATE BETTER DEFENSES.                         │
-│                                                  │
-│             ── THINK BEYOND THE SURFACE ──       │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
-
 I'm working toward becoming a stronger **security researcher and offensive security practitioner**, while continuing to explore the world of **IoT, embedded hardware, networking, and automation**.
 
 ---
